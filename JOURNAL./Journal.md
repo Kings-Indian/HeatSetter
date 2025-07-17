@@ -1,3 +1,10 @@
+---
+title: "Put Me Down"
+author: "Tanishq Goyal"
+description: "A Vertical Heatpress for Threaded Inserts"
+created_at: "2025-15-25"
+---
+Total Time Spent: 6.5 hours
 7/15/24
 My goal was to create a vertical heat press machine with the goal of inserting threaded inserts. It shouldf also have a fixed easily swappale bottom position and a machism that makes the weighrt more ballanced. 
 
