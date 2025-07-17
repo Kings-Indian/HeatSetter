@@ -2,7 +2,7 @@
 
 ## Project Description
 
-HeatSetter-3 is a precision vertical heat press machine designed specifically for inserting threaded inserts into 3D printed parts and other materials. The machine features a balanced counterweight system, adjustable toolhead positioning, and a fixed bottom limit for consistent insert placement.
+Put Me Down is a precision vertical heat press machine designed specifically for inserting threaded inserts into 3D printed parts and other materials. The machine features a balanced counterweight system, adjustable toolhead positioning, and a fixed bottom limit for consistent insert placement.
 
 ## Why I Made This Project
 
