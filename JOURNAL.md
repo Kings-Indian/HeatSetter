@@ -6,7 +6,7 @@ created_at: "2025-15-25"
 ---
 
 # Project Overview
-**Total Time Spent: 9.5 hours**
+**Total Time Spent: 7.5 hours**
 
 My goal was to create a vertical heat press machine with the goal of inserting threaded inserts. It shouldf also have a fixed easily swappale bottom position and a machism that makes the weighrt more ballanced.
 
@@ -75,7 +75,7 @@ Since T nuts tend to rotate and unfasten them selved I decided to make an elonga
 
 ---
 
-**Time Spent: 3h**
+**Time Spent: 1h**
 
 ### Counterbalance System Design
 Now, for the system that makes it "lgihter" and creates a hard stop.
