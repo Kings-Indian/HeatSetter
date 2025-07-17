@@ -1,4 +1,4 @@
-# HeatSetter-3: Vertical Heat Press for Threaded Inserts
+# Put Me Down: Vertical Heat Press for Threaded Inserts
 
 ## Project Description
 
