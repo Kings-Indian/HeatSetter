@@ -33,6 +33,6 @@ I created this project to solve the common problem of manually inserting threade
 | 11       | M4 T-Nuts for Extrusion             | [Link](https://www.amazon.com/Zorveiio-Fastener-Assortment-Aluminum-Profile/dp/B0C9DJBG1H/)         | 1        | $4.99      | $0.33           | $5.32      | $92.63         |
 | 12       | Mesee 6 Pcs Tap Wrench Tool Set     | [Link](https://www.amazon.com/dp/B09PG5C363/)                                                        | 1        | $8.89      | $0.59           | $9.48      | $102.11        |
 
-**Total Project Cost: $92.63**
+**Total Project Cost: $102.11**
 
 ---
