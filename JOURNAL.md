@@ -139,5 +139,22 @@ Time spent: 0.5h
 <img width="1181" height="1133" alt="image" src="https://github.com/user-attachments/assets/4905477a-52ef-4539-98d3-043e2bb6702e" />
 Final design!
 
+8/1/25
+
+turns out I caznt drill after trying for 5 hours with barely a dent (was using a normal drill and drillbit instead of a drill pressdown thing since i dont have one), 3d printing this thing 
+
+<img width="1166" height="783" alt="image" src="https://github.com/user-attachments/assets/8a466718-4e53-484f-b256-ec8dbc8abaf3" />
+<img width="684" height="614" alt="image" src="https://github.com/user-attachments/assets/37d596cf-59b5-4c84-aea3-8a056f0ae5e3" />
+
+time spent: 1h
+
+8/2/25
+
+YAYY itd early morning and it printed PERFECTLY
+<img width="181" height="168" alt="image" src="https://github.com/user-attachments/assets/d4fc48f4-cea2-45c6-af4d-005492d006ef" />
+took im an hour to install and it was perfect
+<img width="430" height="529" alt="image" src="https://github.com/user-attachments/assets/e715abe6-0a51-4270-86f1-6679e7532820" />
+Time Spent: 1h
+
 
 
