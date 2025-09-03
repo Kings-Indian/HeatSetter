@@ -36,7 +36,7 @@ I created this project to solve the common problem of manually inserting threade
 **Total Project Cost: $102.11**
 
 ---
-<img width="454" height="621" alt="image" src="https://files.slack.com/files-pri/T0266FRGM-F09DGRQL17E/img_8932.jpg" />
+<img width="454" height="621" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0b8047485a187abdd461d4a7ef52804ac0dd3159_image.png" />
 
 Youtube: [Link](https://www.youtube.com/shorts/omRqqoOT8DQ)
 
